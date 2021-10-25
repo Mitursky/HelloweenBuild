@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HelloweenBuild/static/css/main.84309328.chunk.css",
-    "main.js": "/HelloweenBuild/static/js/main.9a7aa4ef.chunk.js",
-    "main.js.map": "/HelloweenBuild/static/js/main.9a7aa4ef.chunk.js.map",
+    "main.js": "/HelloweenBuild/static/js/main.f75951ec.chunk.js",
+    "main.js.map": "/HelloweenBuild/static/js/main.f75951ec.chunk.js.map",
     "runtime-main.js": "/HelloweenBuild/static/js/runtime-main.a462edcf.js",
     "runtime-main.js.map": "/HelloweenBuild/static/js/runtime-main.a462edcf.js.map",
     "static/css/2.80644e6d.chunk.css": "/HelloweenBuild/static/css/2.80644e6d.chunk.css",
@@ -32,6 +32,6 @@
     "static/css/2.80644e6d.chunk.css",
     "static/js/2.0054e3af.chunk.js",
     "static/css/main.84309328.chunk.css",
-    "static/js/main.9a7aa4ef.chunk.js"
+    "static/js/main.f75951ec.chunk.js"
   ]
 }
